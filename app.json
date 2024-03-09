@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Chunkey-Monkey",
+    "description": "No description",
+    "slug": "snack-87c5bb66-65e9-4e50-8d35-9988bce5d748",
+    "privacy": "unlisted",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./logo.png",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.proappmaker.ChunkeyMonkey"
+    }
+  }
+}
